@@ -12,6 +12,6 @@
 ![E.Clone's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcchiClone&show_icons=true&theme=radical)
 
 ## 계획 또는 개발중
-#### [🎮] PAIMON - 방치, 육성, 가챠 등. 8월 중 Demo버전을 Steam에 출시 예정, 무료
+#### [🎮] PAIMON - 방치, 육성, 가챠 등. 9월 중 Demo버전을 Steam에 출시 예정, 무료
 #### [🌐] LalaInfo - 메이플스토리 API를 활용, 다계정 지원 성장 히스토리 등 분석
 #### [🎮] <a href="https://www.youtube.com/channel/UCwWV5EZXdE5MJS6MIeSdx7w"><img src ="https://img.shields.io/badge/%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white" style="height : 12px; margin-left : 8px; margin-right : 8px;"/></a> Stream Cafe - Youtube Live로 진행하는 공부방
