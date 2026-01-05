@@ -12,3 +12,4 @@
 ## 🛠️ 대표 프로젝트들
 1. <a href = "https://store.steampowered.com/app/2952090/Null_Reference_Exception/">Null Reference Exceptoin</a>
 2. <a href = "https://www.youtube.com/watch?v=OP0JrZLFqz0">Youtube 온라인 자습실</a> - Unity Client, Youtube API, wss
+3. <a href = "https://github.com/EcchiClone/Larayang-Assistant-Release">Larayang Assistant</a> - C#
